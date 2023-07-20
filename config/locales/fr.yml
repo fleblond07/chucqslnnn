@@ -1612,7 +1612,7 @@ fr:
         cart: "Panier"
     register_call:
       selling_on_ofn: "Vous souhaitez proposer vos produits sur La Cagette Ailée ?"
-      register: "Créez votre compte pro"
+      register: "Demandez votre compte pro"
     footer:
       footer_secure: "Fiable et sécurisé."
       footer_secure_text: "La Cagette Ailée utilise un certificat type SSL (2048 bit RSA) pour garantir la confidentialité de vos commandes et données bancaires. Nos serveurs ne conservent pas vos données bancaires et les paiements sont effectués conformément aux normes de sécurité PCI."

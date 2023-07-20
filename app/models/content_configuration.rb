@@ -4,7 +4,7 @@ class ContentConfiguration < Spree::Preferences::Configuration
   include FilePreferences
 
   # Header
-  file_preference :logo, default_url: "/default_images/ofn-logo.png"
+  file_preference :logo, default_url: "/images/slvada_blanc.png"
   file_preference :logo_mobile
   file_preference :logo_mobile_svg, default_url: "/default_images/ofn-logo-mobile.svg"
 
