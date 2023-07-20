@@ -14,7 +14,7 @@ We're part of global movement - get involved!
 * Check out the [User Guide](https://guide.openfoodnetwork.org/) for a list of features and tutorials.
 * Join our [discussion forum](https://community.openfoodnetwork.org).
 
-## Contributing
+## Contributing - Initial Commit
 
 If you are interested in contributing to the OFN in any capacity, please introduce yourself [on Slack][slack-invite], and have a look through the [OFN Handbook][ofn-handbook].
 
