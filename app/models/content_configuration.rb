@@ -6,7 +6,7 @@ class ContentConfiguration < Spree::Preferences::Configuration
   # Header
   file_preference :logo, default_url: "/default_images/slv_black.png"
   file_preference :logo_mobile
-  file_preference :logo_mobile_svg, default_url: "/default_images/ofn-logo-mobile.svg"
+  file_preference :logo_mobile_svg, default_url: "/default_images/slv_black.png"
 
   # Home page
   preference :home_page_alert_html, :text
@@ -60,16 +60,16 @@ class ContentConfiguration < Spree::Preferences::Configuration
   preference :menu_7_icon_name, :string, default: "ofn-i_013-help"
 
   # Footer
-  file_preference :footer_logo, default_url: "/default_images/ofn-logo-footer.png"
+  file_preference :footer_logo, default_url: "/default_images/slvada_blanc.png"
 
   # Other
-  preference :footer_facebook_url, :string, default: "https://www.facebook.com/OpenFoodNet"
+  preference :footer_facebook_url, :string, default: "https://www.facebook.com/silesvachesavaientdesailes.org"
   preference :footer_twitter_url, :string, default: "https://twitter.com/OpenFoodNet"
   preference :footer_instagram_url, :string, default: "https://www.instagram.com/openfoodnetworkuk/"
   preference :footer_linkedin_url, :string, default: "https://www.linkedin.com/company/openfoodnetwork/"
   preference :footer_googleplus_url, :string, default: ""
   preference :footer_pinterest_url, :string, default: ""
-  preference :footer_email, :string, default: "hello@openfoodnetwork.org"
+  preference :footer_email, :string, default: "contact@silesvachesavaientdesailes.org"
   preference :community_forum_url, :string, default: "http://community.openfoodnetwork.org"
   preference :footer_links_md, :text, default: <<-EOS.strip_heredoc
     [Newsletter sign-up](/)
